@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <a href='https://www.credly.com/badges/112a7b8c-226c-4eca-8c0d-d82a2f171171'><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
+  <a href='https://www.credly.com/badges/112a7b8c-226c-4eca-8c0d-d82a2f171171'><img src="https://images.credly.com/size/128x128/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" width="100" /></a>
   <br/>
   <span style='font-size: 20px; color: #0F52BA'><a href='https://www.credly.com/badges/112a7b8c-226c-4eca-8c0d-d82a2f171171/public_url' style='text-decoration:none'>AWS Certified Cloud Practitioner</a></span>
 </p>
