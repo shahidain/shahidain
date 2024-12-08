@@ -17,24 +17,25 @@
 </p>
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  💻 MY WORKSPACE 💻<br/><br/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<!--
-**shahidain/shahidain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  📫 You can reach me on <a href='mailto:mohd.shahidain@gmail.com'>mohd.shahidain@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
+<details>
+  <summary>📃 <span style='color:#0F52BA; font-size: 15px'>RESUME</span></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Education
+  - 📖 **Masters of Science (M.Sc.)**\
+  📆 2003 - 2005\
+  📍 **University of Mumbai** - Mumbai, India
+
+  ## Work Experience
+</details>
