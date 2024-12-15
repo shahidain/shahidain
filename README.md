@@ -17,14 +17,13 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shahidain&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
 <p align='center'>
   💻 MY WORKSPACE 💻<br/><br/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/intel-core%20i7%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
 </p>
 
 <p align='center'>
@@ -35,8 +34,8 @@
   <summary>📃 <span style='color:#0F52BA; font-size: 15px'>RESUME</span></summary>
 
   ## Education
-  - 📖 **Masters of Science (M.Sc.)**\
-  📆 2003 - 2005\
+  - 📖 **Master of Science (M.Sc.)**\
+  📆 2004 - 2005\
   📍 **University of Mumbai** - Mumbai, India
 
   ## Work Experience
